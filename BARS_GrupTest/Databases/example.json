@@ -1,0 +1,6 @@
+{
+  "server": "localhost",
+  "user": "postgres",
+  "password": "123456",
+  "diskSize": 10
+}
